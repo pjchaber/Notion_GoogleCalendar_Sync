@@ -1,0 +1,11 @@
+{
+    "notion": {
+	"secret": "secret_....",
+	"calendar_id": "....@group.calendar.google.com",
+        "database_id": "........-....-....-....-............",
+	"me": "Jack Daniels"
+    },
+    "dry_run": false,
+    "working_dir": "/home/user/git/notion_googlecalendar_sync/",
+    "timezone": "Europe/Paris"
+}
